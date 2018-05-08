@@ -1,6 +1,6 @@
 {
     "extensionDescription": {
-        "message": "Reveals the original URLs for external sites and prevents from tracking your clicks.",
+        "message": "Reveals the original URLs for external sites.",
         "description": "Description of the extension."
     }
 }
